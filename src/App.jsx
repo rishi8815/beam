@@ -319,7 +319,7 @@ export default function App() {
         </div>
       </div>
 
-      {/* Fifth Section - Real Examples */}
+  
       <div className='h-screen w-full bg-white mt-[15%]'>
         <div className="h-full flex flex-col items-center justify-center px-4 md:px-6 lg:px-20">
           {/* Section Title and Description */}
